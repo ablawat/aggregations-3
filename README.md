@@ -69,7 +69,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-egzamin) // zaliczenie, te MR mozna policzyć korzystając z AP
 1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_3.md)
 1. [Ławicki, Patryk](https://true-or-false@bitbucket.org/true-or-false/mongomapreduce.git)
-1. Makulec, Krzysztof
+1. [Makulec, Krzysztof](https://bitbucket.org/gokus/nosqlegz/)
 1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB) // :+1: za analizę dla j. polskiego + :tiger:
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql_egzamin) // cała Wikipedia?
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3_exam)
