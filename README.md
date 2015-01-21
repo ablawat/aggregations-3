@@ -48,7 +48,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/ReduceMapMongo)
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-Egzamin)
 1. [Czechowicz, Kacper](https://github.com/kipperek/mapReduce) // ScopedThread :+1:
-1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSql_reduce_3) // 404 – Page not Found
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSql_reduce_3)
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie3.md)
 1. [Ekiert, Łukasz](https://github.com/cinkonaap/nosql/blob/master/zad3/rozwiazanie.md)
 1. Gałka, Łukasz
@@ -84,7 +84,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Soliński, Damian
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/Tnosql3) :hash: :ok_hand:
 1. [Szymanek, Tomasz](https://bitbucket.org/Shimaneiro/nosql)
-1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin) // nieprawidłowy link do *show.txt*
+1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin)
 1. [Zakrzewski, Patryk](https://github.com/zakrzes/Technologie-NoSQL/blob/master/Zadanie%203.md)
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie3.md)
 
