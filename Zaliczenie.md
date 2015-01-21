@@ -77,7 +77,7 @@ w zadaniu [2X,Y]:
 
 ### D
 
-1. Bieliński, Marcin
+1. [Bieliński, Marcin](https://github.com/mbielinski/nosql-zadanie1)
 1. Gałka, Łukasz
 1. [Grycko, Marcin](https://bitbucket.org/mgrycko/nosql/)
 1. Janowski, Arkadiusz
