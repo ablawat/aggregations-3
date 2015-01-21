@@ -42,7 +42,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Banecka, Kamila](https://bitbucket.org/KamBan/egzamin-nosql)
 1. [Banecki, Daniel](https://bitbucket.org/KamBan/egzamin-nosql)
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/NoSQL_Exam)
-1. Bieliński, Marcin
+1. [Bieliński, Marcin](https://github.com/mbielinski/nosql-zadanie3)
 1. Bławat, Adam
 1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie/blob/master/Zadanie3.md)
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/ReduceMapMongo)
